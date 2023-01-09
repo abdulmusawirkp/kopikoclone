@@ -1,0 +1,189 @@
+*{
+   margin: 0%;
+   
+}
+.page1{
+    width: 100%;
+    height: 877px;
+    background-color: black;
+    position: relative;
+}
+.navbar{
+    width: 100%;
+    height: 192px;
+    position: absolute;
+
+}
+.part1{
+    width: 596px;
+    height: 112px;
+    position: absolute;
+    left: 28%;
+}
+.part1 h1{
+    font-size: 42px;
+    padding-left: 24%;
+    padding-top: 6%;
+    font-family: "Playfair Display", serif;
+    letter-spacing: 4px;
+    color: #999;
+    font-weight: lighter;
+}
+.part1 h2{
+    font-size: 12px;
+    padding-left: 12%;
+    padding-top: 0%;
+    font-family: "Open Sans", sans-serif;
+    letter-spacing: 4px;
+    position: absolute;
+    font-weight: lighter;
+    color: #999;
+}
+.line{
+    width: 1165px;
+    height: 1px;
+    position: absolute;
+    background-color: rgb(52, 52, 52);
+    top: 69%;
+    left: 4%;
+}
+.options{
+    width: 843px;
+    height: 17px;
+    position: absolute;
+    top: 81%;
+    left: 20%
+}
+.options .t1{
+    font-size: 13px;
+    padding-left: 58px;
+    font-family: "Open Sans", sans-serif;
+    color: azure;
+    letter-spacing: 1px;
+}
+.options .t2{
+    Font-size: 13px;
+    padding-left: 27px;
+    font-family: "Open Sans", sans-serif;
+    color: azure;
+    letter-spacing: 1px;
+
+}
+.options .t3{
+    Font-size: 13px;
+    padding-left: 27px;
+    font-family: "Open Sans", sans-serif;
+    color: azure;
+    letter-spacing: 1px;
+}
+.options .t4{
+    Font-size: 13px;
+    padding-left: 27px;
+    font-family: "Open Sans", sans-serif;
+    color: azure;
+    letter-spacing: 1px;
+}
+.options .t5{
+    Font-size: 13px;
+    padding-left: 27px;
+    font-family: "Open Sans", sans-serif;
+    color: azure;
+    letter-spacing: 1px;
+}
+.options .t6{
+    Font-size: 13px;
+    padding-left: 27px;
+    font-family: "Open Sans", sans-serif;
+    color: azure;
+    letter-spacing: 1px;
+}
+.backgroundimg img{
+   width: 100%;
+    height: 710px;
+    position: absolute;
+    top: 22%;
+    left: 0%;
+
+}
+.page2{
+    width: 100%;
+    height: 1202px;
+position: relative;
+    background-color:black ;
+}
+.page2 .p1{
+    font-size: 22px;
+    padding-left: 3%;
+    padding-top: 12%;
+    font-weight: bold;
+    font-family: "Open Sans", sans-serif;
+    letter-spacing: -1px;
+    text-align: center;
+    color: #999;
+
+
+}
+.page2 .p2{
+    font-size: 22px;
+    padding-left: 3%;
+    padding-top: 4%;
+    font-weight: bold;
+    font-family: "Open Sans", sans-serif;
+    letter-spacing: -1px;
+    text-align: center;
+    color: #999;
+
+}
+.page2 .img1{
+   width: 884px;
+    height: 500px;
+    position: absolute;
+    top: 28%;
+    left: 15%;
+}
+.page2 .img2{
+  width: 477px;
+    height: 70px;
+    position: absolute;
+    top: 90%;
+    left: 31%;
+} 
+.footer{
+    width: 100%;
+    height: 137px;
+    background-color: black;
+    position: relative;
+}
+.footer #foot1{
+    font-size: 13px;
+    padding-left: 34%;
+    padding-top: 7%;
+    font-family: "Open Sans", sans-serif;
+    position: absolute;
+    color: #999 ;
+}   
+.footer #foot2{
+    font-size: 13px;
+    padding-left: 43%;
+    padding-top: 7%;
+    font-family: "Open Sans", sans-serif;
+    position: absolute;
+    color: white;
+}
+.footer #foot3{
+    font-size: 13px;
+    padding-left: 50%;
+    padding-top: 7%;
+    font-family: "Open Sans", sans-serif;
+    position: absolute;
+    color:#999;
+
+}
+.footer #foot4{
+    font-size: 13px;
+    padding-left: 59%;
+    padding-top: 7%;
+    font-family: "Open Sans", sans-serif;
+    position: absolute;
+    color: white;
+}
